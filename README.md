@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there, Alex here 👋
 
-<!--
-**alexruizlul/alexruizlul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![white-github](https://user-images.githubusercontent.com/60763025/146455489-eb358a67-4d48-4b78-afe6-fa73852bc468.png)
 
-Here are some ideas to get you started:
+# Front End Software Developer with strong fundamentals of HTML, CSS and JavaScript. My favorite area of the Tech industry that I would love to work in is e-Commerce, as I have experience with the Shopify platform in Theme Customization, Liquid Development, Shopify API and Store Setups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- ⚽ Playing soccer since I can remember
+- 🕹 Love all videogames, specially Nintendo
+
+## Contact
+# Reach me at alex@alejandre.dev
+
